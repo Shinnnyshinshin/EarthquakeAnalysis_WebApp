@@ -1,1 +1,1 @@
-# EarthquakeAnalysis_WebbApp
+# EarthquakeAnalysis_WebApp
